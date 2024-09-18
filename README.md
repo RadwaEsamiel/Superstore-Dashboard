@@ -10,4 +10,4 @@ Date Slicer: Drill down from yearly to quarterly or monthly views to explore tim
 This dashboard is designed to help stakeholders quickly identify sales patterns and make data-driven decisions for better business performance.
 
 
-![image](https://github.com/user-attachments/assets/e2c310d1-198b-442a-9a27-019eb27db3d5)
+![image](https://github.com/user-attachments/assets/cbbdffc8-a942-4533-9f26-151b31e3f5fd)
